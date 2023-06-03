@@ -1,9 +1,0 @@
-<component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="firstprogram" type="Application" factoryName="Application">
-    <option name="MAIN_CLASS_NAME" value="Main" />
-    <module name="New Project" />
-    <method v="2">
-      <option name="Make" enabled="true" />
-    </method>
-  </configuration>
-</component>
